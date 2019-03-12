@@ -1,0 +1,5 @@
+Package: ${package_name}
+Version: ${package_version}
+Architecture: amd64
+Maintainer: Alex Spitzer
+Description: ${package_description}
